@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7196E53-0F0C-405A-A3A0-2EB8790D324E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2BA531C8805C4E922423D87A191E60C51C10580D</key>
+		<string>github.com:LucasChiWang/slotsGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlotMachine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2BA531C8805C4E922423D87A191E60C51C10580D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:LucasChiWang/slotsGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2BA531C8805C4E922423D87A191E60C51C10580D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BA531C8805C4E922423D87A191E60C51C10580D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SlotMachine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
